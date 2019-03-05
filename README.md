@@ -3,10 +3,9 @@ The wordcloud and NLP anlysis of The Big Bang Theory, including transcripts and 
 Thanks for the efforts of [the founder](https://bigbangtrans.wordpress.com/) whose website is my crawler source.
 
 Requirements:
-* Python 3
+* Python 3.x  
 * scipy
 * urllib
-* xml
 * lxml
 * wordcloud
 * nltk
