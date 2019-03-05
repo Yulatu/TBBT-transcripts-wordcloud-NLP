@@ -11,3 +11,4 @@ Requirements:
 * nltk
 
 Code in this repository accompanies with the [CSDN blog](https://blog.csdn.net/Tele_Anti_Nomy/article/details/88092709)(in Chinese).
+![wordcloud](https://raw.githubusercontent.com/Yulatu/TBBT-transcripts-wordcloud-NLP/master/pics/export_nltk.jpg)
