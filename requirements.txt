@@ -1,0 +1,5 @@
+scipy
+urllib
+lxml
+wordcloud
+nltk
